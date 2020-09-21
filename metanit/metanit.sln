@@ -3,16 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "metanit", "metanit\metanit.shproj", "{FB660128-6051-4282-AC50-A6BFCB6977FD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ef_simple", "ef_simple\ef_simple.csproj", "{8C2D3023-BF12-4B25-AB31-939D5DAD6D0D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_simple_console", "EF_simple_console\EF_simple_console.csproj", "{78E3D3E8-458A-4FB0-B17B-6CFBFFE6E8FE}"
 EndProject
 Global
-	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		metanit\metanit.projitems*{fb660128-6051-4282-ac50-a6bfcb6977fd}*SharedItemsImports = 13
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
